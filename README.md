@@ -6,8 +6,8 @@
 - Project Euler
 
 
-###### @TODO
-Finish 1000 problems in the next 6 month
+###### @progress
+ 12 problem
 
 
 
